@@ -1,29 +1,23 @@
-# # 🌍 Global Housing Market Data Pipeline
+ #  Global Housing Market Data Pipeline
 
 This project builds a scalable data pipeline to analyze housing affordability trends across countries using real-world economic indicators from 2013 to 2024. It combines modern data engineering tools like **Python**, **PostgreSQL**, **Apache Airflow**, and **Power BI** to deliver a complete data flow from ingestion to insights.
 
-# # 🎯 Project Objective
+#  Project Objective
 
 We designed and implemented an end-to-end data pipeline that ingests, cleans, transforms, stores, and visualizes housing market data to uncover trends in global housing affordability and economic influences over time.
 This project analyzes the relationship between:
-
-Housing prices
-
-Rental costs 
-
-Economic indicators 
+- Housing prices
+- Rental costs 
+- Economic indicators 
 
 Key Questions:
-
-How did affordability ratios change between 2015-2019?
-
-Which economic factors correlate most strongly with price surges?
-
-Can we predict affordability crises using historical patterns?
-Designed for urban economists, policymakers, and data scientists, this toolkit transforms raw housing data into actionable insights.
+- How did affordability ratios change between 2015-2019?
+- Which economic factors correlate most strongly with price surges?
+- Can we predict affordability crises using historical patterns?
+- Designed for urban economists, policymakers, and data scientists, this toolkit transforms raw housing data into actionable insights.
 
 
-# # 🛠️ Tech Stack
+# Tech Stack
 
 | Tool           | Role                                        |
 |----------------|---------------------------------------------|
@@ -33,7 +27,7 @@ Designed for urban economists, policymakers, and data scientists, this toolkit t
 | **Power BI**   | Data visualization and dashboarding         |
 | **Jupyter**    | Exploratory data analysis and prototyping   |
 
-## Dataset
+# Dataset
 
 - **Source:** Kaggle (pre-collected dataset)
 - **Name:** Global Housing Market Extended
